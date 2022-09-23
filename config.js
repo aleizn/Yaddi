@@ -10,7 +10,7 @@ global.owner = [
   ['584124807309', '🔰  †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ - Collaborator 1 🔰', true],
 
 ] 
-global.suittag = ['593959425714'] 
+global.suittag = ['595986674310'] 
 global.mods = [] 
 global.prems = [] 
 
