@@ -6,9 +6,8 @@
 `—◉ DUDAS SOBRE EL BOT?, CONTACTANOS ✨`
 
 <a href="http://wa.me/593959425714" target="blank"><img src="https://img.shields.io/badge/DIEGO_OFC_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/595986674310" target="blank"><img src="https://img.shields.io/badge/viruzz_COLAB.3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/51993138466" target="blank"><img src="https://img.shields.io/badge/DANI_COLAB.4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
+<a href="http://wa.me/595986674310" target="blank">
+  
 [![blog](https://img.shields.io/badge/Grupo-soporte-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
 )](https://chat.whatsapp.com/CrsOmirjZNYKrvnQNT98Oo)  <a href="https://chat.whatsapp.com/CrsOmirjZNYKrvnQNT98Oo"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
 ---------
