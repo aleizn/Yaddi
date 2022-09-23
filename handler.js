@@ -495,7 +495,7 @@ export async function participantsUpdate({ id, participants, action }) {
                         
 let ftroli = { key: { fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "6289523258649-1604595598@g.us" }, "message": { orderMessage: { itemCount: 6546464643, status: 200, thumbnail: imagen1, surface: 200, message: wm, orderTitle: wm, sellerJid: '0@s.whatsapp.net' }}, contextInfo: { "forwardingScore": 999, "isForwarded": true}, sendEphemeral: true}   
 
-this.sendButton(id, text, groupMetadata.subject, apii.data, [[(action == 'add' ? '💫𝘽𝙄𝙀𝙉𝙑𝙀𝙉𝙄𝘿𝙊/𝘼💫' : '🏳️‍🌈𝘼𝘿𝙄𝙊𝙎 𝙇𝙂𝙏𝘽🏳️‍🌈'), (action == 'add' ? '#welcomegc' : '#byegc')], ['⦙☰ 𝗠𝗘𝗡𝗨', `#menu`]], ftroli, {mentions: this.parseMention(text)})
+this.sendButton(id, text, groupMetadata.subject, apii.data, [[(action == 'add' ? '💫𝘽𝙄𝙀𝙉𝙑𝙀𝙉𝙄𝘿𝙊/𝘼💫' :'ADIOS FAN DE BTS🏳️‍🌈'), (action == 'add' ? '#welcomegc' : '#byegc')], ['⦙☰ 𝗠𝗘𝗡𝗨', `#menu`]], ftroli, {mentions: this.parseMention(text)})
                 
 /* this.sendFile(id, apii.data, 'pp.jpg', text, null, false, { mentions: [user] }) */
                    }
