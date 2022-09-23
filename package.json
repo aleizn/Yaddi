@@ -14,7 +14,7 @@
         "test": "node test.js",
         "test2": "nodemon index.js"
     },
-    "homepage": "https://github.com/DIEGO-OFC/DORRAT-BOT-MD",
+    "homepage": "https://github.com/VIRUZOFC/DORRAT-TERMUX",
     "author": {
         "name": "DIEGO-OFC"
     },
