@@ -1,6 +1,6 @@
-# `💫 𝙳𝙾𝚁𝚁𝙰𝚃-𝙱𝙾𝚃-𝙼𝙳 💫`
+# `💫 𝑉𝐼𝑅𝑈𝑍𝑍-𝐵𝑂𝑇 𝑀𝐷 💫`
 <p align="center"> 
-  <a href="https://github.com/DIEGO-OFC/DORRAT-BOT-MD"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=DORRAT+BOT+MD++%F0%9F%92%96;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"
+  <a href="https://github.com/VIRUZOFC/DORRAT-TERMUX"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=𝑉𝐼𝑅𝑈𝑍𝑍+𝐵𝑂𝑇+𝑀𝐷++%F0%9F%92%96;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"
 </p> 
 
 `—◉ DUDAS SOBRE EL BOT?, CONTACTAME ✨`
@@ -44,7 +44,7 @@
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/DIEGO-OFC/DORRAT-TERMUX
+> git clone https://github.com/VIRUZOFC/DORRAT-TERMUX
 > cd DORRAT-TERMUX
 > yarn install 
 > npm install
@@ -78,6 +78,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 - 𝙴𝙻 𝙰𝙳𝙳 𝚈 𝙴𝙻 𝙺𝙸𝙲𝙺 𝙿𝚄𝙴𝙳𝙴𝙽 𝙾𝙲𝙰𝚂𝙸𝙾𝙽𝙰𝚁 𝚀𝚄𝙴 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝚂𝙴 𝚅𝙰𝚈𝙰 𝙰 𝚂𝙾𝙿𝙾𝚁𝚃𝙴 𝙿𝙾𝚁 𝙴𝙻𝙻𝙾 𝚂𝙴 𝙰𝙲𝚃𝙸𝚅𝙰 𝙲𝙾𝙽 #𝚎𝚗𝚊𝚋𝚕𝚎 𝚛𝚎𝚜𝚝𝚛𝚒𝚌𝚝 
 - 𝙳𝙾𝚁𝚁𝙰𝚃-𝙱𝙾𝚃 - 𝚃𝙴𝙰𝙼 𝙽𝙾 𝚂𝙴 𝙷𝙰𝙲𝙴 𝚁𝙴𝚂𝙿𝙾𝙽𝚂𝙰𝙱𝙻𝙴 𝙳𝙴𝙻 𝚄𝚂𝙾, 𝙽𝚄𝙼𝙴𝚁𝙾𝚂, 𝙿𝚁𝙸𝚅𝙰𝙲𝙸𝙳𝙰𝙳 𝚈 𝙲𝙾𝙽𝚃𝙴𝙽𝙸𝙳𝙾 𝙼𝙰𝙽𝙳𝙰𝙳𝙾, 𝚄𝚂𝙰𝙳𝙾 𝙾 𝙶𝙴𝚂𝚃𝙸𝙾𝙽𝙰𝙳𝙾 𝙿𝙾𝚁 𝚄𝚂𝚃𝙴𝙳𝙴𝚂 𝙾 𝙴𝙻 𝙱𝙾𝚃
 ## `𝐄𝐃𝐈𝐓𝐎𝐑 𝐘 𝐏𝐎𝐑𝐏𝐈𝐄𝐓𝐀𝐑𝐈𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓` 
-<a href="https://github.com/DIEGO-OFC"><img src="https://github.com/DIEGO-OFC.png" width="300" height="300" alt="DIEGO-OFC"/></a>
+<a href="https://github.com/VIRUZOFC/DORRAT-TERMUX"><img src="https://github.com/DIEGO-OFC.png" width="300" height="300" alt="𝑉𝐼𝑅𝑈𝑍𝑍-𝑂𝐹𝐶"/></a>
 
-> The Dorr∆t-bot _ By DIEGO OFC
+> 𝑉𝐼𝑅𝑈𝑍𝑍-𝐵𝑂𝑇 𝐵𝑌 𝐷𝐼𝐸𝐺𝑂-𝑂𝐹𝐶 | 𝑉𝐼𝑅𝑈𝑍𝑍-𝑂𝐹𝐶
