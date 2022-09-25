@@ -1,4 +1,4 @@
-# `💫 𝑉𝐼𝑅𝑈𝑍𝑍-𝐵𝑂𝑇 💫`
+# `💫𝑉𝐼𝑅𝑈𝑍𝑍-𝐵𝑂𝑇💫`
 <p align="center"> 
   <a href="https://github.com/VIRUZOFC/DORRAT-TERMUX"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=𝑉𝐼𝑅𝑈𝑍𝑍+𝐵𝑂𝑇+𝑀𝐷++%F0%9F%92%96;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"
 </p> 
