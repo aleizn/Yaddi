@@ -122,7 +122,7 @@ text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length
 
 let str = `
 
-┌──「†𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤†」─
+┌──「VIRUZZ-BOT 」─
 ├❏ ๖ۣۜۜ͜͡𝐇𝐨𝐥𝐚ঔৣֳ᷌᷈͜͡ ${name}💖✨ 
 ├❏ 📅 𝙵𝙴𝙲𝙷𝙰: ${week}, ${date}
 ├❏ 🔋𝚃𝙸𝙴𝙼𝙿𝙾 𝙰𝙲𝚃𝙸𝚅𝙾: ${uptime}
@@ -158,7 +158,7 @@ let str = `
 
 `.trim()
 
-conn.sendHydrated(m.chat, str, wm, pp, 'https://github.com/DIEGO-OFC/DORRAT-BOT-MD', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
+conn.sendHydrated(m.chat, str, wm, pp, 'https://github.com/VIRUZOFC/DORRAT-TERMUX', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
 
 ['𝐌𝐄𝐍𝐔', '/menu'],
 
