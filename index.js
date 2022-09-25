@@ -13,10 +13,10 @@ const { name, author } = require(join(__dirname, './package.json'))
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 
-say('DORRAT - Bot\nWhatsApp Bot MD modificafo por VIRUZZ-OFC', {
+say('DORRAT - Bot modificado por VIRUZZ-OFC', {
 font: 'chrome',
 align: 'center',
-gradient: ['red', 'magenta']})
+gradient: ['candy', 'magenta']})
 say(`Bot creado por DIEGO-OFC`, {
 font: 'console',
 align: 'center',
