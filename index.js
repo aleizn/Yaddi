@@ -13,14 +13,14 @@ const { name, author } = require(join(__dirname, './package.json'))
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 
-say('DORRAT-BOT-MD', {
+say('𝑉𝐼𝑅𝑈𝑍𝑍-𝐵𝑂𝑇 𝑀𝐷', {
 font: 'pallet',
 align: 'center',
-colors: ['#ff8000']})
+colors: ['candy']})
 say(`CREADO POR DIEGO-OFC`, {
 font: 'console',
 align: 'center',
-colors: ['candy']})
+colors: ['red']})
 
 var isRunning = false
 /**
