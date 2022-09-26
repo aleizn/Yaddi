@@ -14,13 +14,13 @@ const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 
 say('DORRAT-BOT-MD', {
-font: 'tiny',
+font: 'pallet',
 align: 'center',
 colors: ['#ff8000']})
 say(`CREADO POR DIEGO-OFC`, {
 font: 'console',
 align: 'center',
-colors: ['red']})
+colors: ['candy']})
 
 var isRunning = false
 /**
