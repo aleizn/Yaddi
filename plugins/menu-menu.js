@@ -61,7 +61,7 @@ readmore: readMore
 text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
  
 let str = `
-*╭━━━〔 †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤† 〕━━━⬣*
+*╭━━━〔 𝑉𝐼𝑅𝑈𝑍𝑍-𝐵𝑂𝑇 〕━━━⬣*
 *┃ ▢ 𝙑𝙀𝙍𝙎𝙄𝙊𝙉 » ${vs}*
 *┃ ▢ 𝙁𝙀𝘾𝙃𝘼 » ${week}, ${date}*
 *┃ ▢ 𝙏𝙄𝙀𝙈𝙋𝙊 𝘼𝘾𝙏𝙄𝙑𝙊 » ${uptime}*
@@ -75,7 +75,7 @@ let str = `
 *┆🎟️ PREMIUM ➟* ${global.prem ? '✅' : '❌'}
 *╰*┅┅┅┅┅┅┅┅┅┅┅┅┅ *✧*
 
-*╭━〔 INFORMACIÓN DE DORR∆T-BOT 〕━⬣*
+*╭━〔 INFORMACIÓN DE 𝑉𝐼𝑅𝑈𝑍𝑍-𝐵𝑂𝑇 〕━⬣*
  ┃ 🔰 _${usedPrefix}grupos_
  ┃ 🔰 _${usedPrefix}estado_
  ┃ 🔰 _${usedPrefix}instalarbot
@@ -99,7 +99,8 @@ let str = `
 ┃ *<UNE UN BOT A TU GRUPO/>*
 ║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋
 ┣ ➱🤖 _${usedPrefix}join *link del grupo*_ 
-┣ ➱🛡️ minimo 30 miembros.
+┣ ➱🛡️ minimo 60 miembros.
+┣ ➱🤖 ! 𝑁𝑂 𝑃𝑈𝐸𝐷𝐸 𝐻𝐴𝑉𝐸𝑅 𝑂𝑇𝑅𝑂 𝐵𝑂𝑇.
 ┗━━━━━━━━━━━━━┛
 
 ┌──「🌱𝐑𝐏𝐆」─
@@ -479,7 +480,7 @@ let str = `
 └────ׂ─ׂ─ׂ─ׂ───
 
 `.trim()
-conn.sendHydrated2(m.chat, str, wm, pp, 'https://github.com/DIEGO-OFC/DORRAT-BOT-MD', '📎𝙶𝙸𝚃𝙷𝚄𝙱', 'https://chat.whatsapp.com/CrsOmirjZNYKrvnQNT98Oo', '💎𝙶𝚁𝚄𝙿𝙾-𝙾𝙵𝙸𝙲𝙸𝙰𝙻💎', [
+conn.sendHydrated2(m.chat, str, wm, pp, 'https://github.com/VIRUZOFC/DORRAT-TERMUX', '📎𝙶𝙸𝚃𝙷𝚄𝙱', 'https://chat.whatsapp.com/CrsOmirjZNYKrvnQNT98Oo', '💎𝙶𝚁𝚄𝙿𝙾-𝙾𝙵𝙸𝙲𝙸𝙰𝙻💎', [
 ['🛡️ 𝗚𝗥𝗨𝗣𝗢𝗦 🛡️', '/grupos'],
 ['🤴 𝗢𝗪𝗡𝗘𝗥  🤴', '/owner'],
 ['🔰 𝗜𝗡𝗙𝗢𝗕𝗢𝗧 🔰', '/infobot']
