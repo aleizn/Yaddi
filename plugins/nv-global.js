@@ -313,5 +313,11 @@ this.sendPresenceUpdate('recording', m.chat)
 
 this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
 
+if (!chat.isBanned && chat.audios && m.text.match(/(xd|Xd|XD)/gi)) {   
+let vn = './media/xd.mp3'
+this.sendPresenceUpdate('recording', m.chat) 
+
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+
 return !0 }
 export default handler
