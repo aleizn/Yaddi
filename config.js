@@ -5,9 +5,9 @@ import fs from 'fs'
 
 //cambia los números que sean propietarios 
 global.owner = [
-  ['593959425714', '🔰  †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ - Creador 🔰', true],
-  ['595986674310', '🔰  †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ -  Deño y editor del bot 🔰', true],
-  ['584124807309', '🔰  †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ - Collaborator 1 🔰', true],
+  ['593959425714', '🔰  𝑉𝐼𝑅𝑈𝑍𝑍-𝐵𝑂𝑇 - Creador de †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ 🔰', true],
+  ['595986674310', '🔰  𝑉𝐼𝑅𝑈𝑍𝑍-𝐵𝑂𝑇 -  creador de  𝑉𝐼𝑅𝑈𝑍𝑍-𝐵𝑂𝑇 🔰', true],
+  ['584124807309', '🔰  𝑉𝐼𝑅𝑈𝑍𝑍-𝐵𝑂𝑇 - Colaborator 1 🔰', true],
 
 ] 
 global.suittag = ['595986674310'] 
@@ -71,13 +71,13 @@ global.APIKeys = { // APIKey Here
 global.vs = '1.2.15'
 global.version = vs
 // Sticker WM
-global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '†𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤'
-global.wm = '†𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ | 𝘿𝙄𝙀𝙂𝙊-𝙊𝙁𝘾'
-global.igfg = '†𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤'
+global.packname = '(•ᐜ•)'
+global.author = '𝑉𝐼𝑅𝑈𝑍𝑍-𝐵𝑂𝑇'
+global.wm = '𝑉𝐼𝑅𝑈𝑍𝑍-𝐵𝑂𝑇 | 𝑉𝐼𝑅𝑈𝑍𝑍-𝑂𝐹𝐶'
+global.igfg = '𝑉𝐼𝑅𝑈𝑍𝑍-𝐵𝑂𝑇'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 //-------------------
-global.md = 'https://chat.whatsapp.com/CrsOmirjZNYKrvnQNT98Oo'
+global.md = 'https://chat.whatsapp.com/JrOSgGh4XaFBlB3uYI2aqI'
 global.dorramd = md
 
 //_____________________________________________
@@ -88,7 +88,7 @@ global.fg = '☆━━━━━━━ ⚠️ 𝙵𝙰𝙻𝙻𝙾 | 𝙵𝙰𝙻
 global.fallo = fg
 global.mg = '══ ❎ 𝙻𝙾 𝚄𝚂𝙾 𝙼𝙰𝙻 ❎ ══'
 global.mal = mg
-global.dorre = 'DORRAT-BOT-MD'
+global.dorre = '𝑉𝐼𝑅𝑈𝑍𝑍-𝐵𝑂𝑇'
 global.DORRA = dorre
 //---------------
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
