@@ -1,7 +1,7 @@
 {
-    "name": "DORRAT-BOT-MD",
+    "name": "𝑉𝐼𝑅𝑈𝑍𝑍-𝐵𝑂𝑇-𝑀𝐷",
     "version": "1.0.0",
-    "description": "Subscribete al canal de YT Diegogameplays82",
+    "description": "suscribete al canal de 𝑉𝐼𝑅𝑈𝑍𝑍 𝑂𝐹𝐶",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -20,10 +20,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/DIEGO-OFC/DORRAT-BOT-MD.git"
+        "url": "git+https://github.com/VIRUZOFC/DORRAT-TERMUX.git"
     },
     "bugs": {
-        "url": "https://github.com/DIEGO-OFC/DORRAT-BOT-MD/issues"
+        "url": "https://github.com/VIRUZOFC/DORRAT-TERMUX/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
