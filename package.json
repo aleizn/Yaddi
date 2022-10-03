@@ -1,7 +1,7 @@
 {
-    "name": "𝑉𝐼𝑅𝑈𝑍𝑍-𝐵𝑂𝑇-𝑀𝐷",
+    "name": "VIRUZZ-BOT-MD",
     "version": "1.0.0",
-    "description": "suscribete al canal de 𝑉𝐼𝑅𝑈𝑍𝑍 𝑂𝐹𝐶",
+    "description": "suscribete al canal de VIRUZZ OFC",
     "main": "index.js",
     "type": "module",
     "directories": {
