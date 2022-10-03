@@ -20,10 +20,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/VIRUZOFC/DORRAT-TERMUX.git"
+        "url": "git+https://github.com/DIEGO-OFC/DORRAT-TERMUX.git"
     },
     "bugs": {
-        "url": "https://github.com/VIRUZOFC/DORRAT-TERMUX/issues"
+        "url": "https://github.com/DIEGO-OFC/DORRAT-TERMUX/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
