@@ -80,4 +80,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ## `𝐄𝐃𝐈𝐓𝐎𝐑 𝐘 𝐏𝐎𝐑𝐏𝐈𝐄𝐓𝐀𝐑𝐈𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓` 
 <a href="https://github.com/VIRUZOFC/DORRAT-TERMUX"><img src="https://github.com/DIEGO-OFC.png" width="300" height="300" alt="𝑉𝐼𝑅𝑈𝑍𝑍-𝑂𝐹𝐶"/></a>
 
+prueba
+
+<a href="https://github.com/SinNombre999"><img src="https://github.com/SinNombre999.png" width="100" height="100" alt="SinNombre999"/></a>
 > 𝑉𝐼𝑅𝑈𝑍𝑍-𝐵𝑂𝑇 𝐵𝑌 𝐷𝐼𝐸𝐺𝑂-𝑂𝐹𝐶 | 𝑉𝐼𝑅𝑈𝑍𝑍-𝑂𝐹𝐶
