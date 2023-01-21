@@ -82,5 +82,5 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 prueba
 
-<a href="https://github.com/SinNombre999"><img src="https://github.com/SinNombre999.png" width="100" height="100" alt="SinNombre999"/></a>
+<a href="https://github.com/VIRUZOFC"><img src="https://github.com/VIRUZOFC.png" width="100" height="100" alt="VIRUZZ OFC"/></a>
 > 𝑉𝐼𝑅𝑈𝑍𝑍-𝐵𝑂𝑇 𝐵𝑌 𝐷𝐼𝐸𝐺𝑂-𝑂𝐹𝐶 | 𝑉𝐼𝑅𝑈𝑍𝑍-𝑂𝐹𝐶
